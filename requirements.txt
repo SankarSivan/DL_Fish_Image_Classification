@@ -1,7 +1,8 @@
-tensorflow
+tensorflow>=2.0
 streamlit
 numpy
 matplotlib
 seaborn
 scikit-learn
 Pillow
+huggingface_hub
