@@ -1,5 +1,5 @@
 streamlit==1.32.2
-tensorflow-cpu==2.15.0
+keras==2.15.0
 pillow==10.1.0
 numpy==1.26.4
 huggingface-hub==0.19.4
